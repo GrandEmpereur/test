@@ -2,16 +2,18 @@ import './style.css'
 import javascriptLogo from './javascript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.js'
-import "./pdf/ANAIS.pdf"
-import "./pdf/Antoine.pdf"
-import "./pdf/Arthur.pdf"
-import "./pdf/Corentin.pdf"
-import "./pdf/Edouard.pdf"
-import "./pdf/Quentin.pdf"
-import "./pdf/Samir.pdf"
-import "./pdf/Soren.pdf"
-import "./pdf/Thibault.pdf"
-import "./pdf/Youssef.pdf"
+import "./public/ANAIS.pdf"
+
+import "./public/pdf/ANAIS.pdf"
+import "./public/pdf/Antoine.pdf"
+import "./public/pdf/Arthur.pdf"
+import "./public/pdf/Corentin.pdf"
+import "./public/pdf/Edouard.pdf"
+import "./public/pdf/Quentin.pdf"
+import "./public/pdf/Samir.pdf"
+import "./public/pdf/Soren.pdf"
+import "./public/pdf/Thibault.pdf"
+import "./public/pdf/Youssef.pdf"
 
 document.querySelector('#app').innerHTML = `
   <div>
