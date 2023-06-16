@@ -21,7 +21,7 @@ document.querySelector('#app').innerHTML = `
     </a>
 
     <h1>Hello Vite!</h1>
-    <a href="./public/pdf/ANAIS.pdf" target="_blank">ANAIS</a>
+    <a href="./ANAIS.pdf" target="_blank">ANAIS</a>
   </div>
 `
 
