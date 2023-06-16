@@ -17,7 +17,6 @@ import "./public/pdf/Youssef.pdf"
 
 document.querySelector('#app').innerHTML = `
   <div>
-    <a href="./pdf/ANAIS.pdf">a</a>
   </div>
 `
 
