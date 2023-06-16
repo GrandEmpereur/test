@@ -3,7 +3,7 @@ import javascriptLogo from './javascript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.js'
 
-import "/pdf/ANAIS.pdf"
+import "/ANAIS.pdf"
 import "/pdf/Antoine.pdf"
 import "/pdf/Arthur.pdf"
 import "/pdf/Corentin.pdf"
